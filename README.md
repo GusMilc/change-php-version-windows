@@ -5,7 +5,7 @@
 - Add your PHP full directory paths at paths.config
 - Execute togglephp.bat
 
-#Example
+# Example
 
 - PHP paths
 
